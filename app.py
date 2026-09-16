@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd
 from pymongo import MongoClient
 import io
+import streamlit as st
+from pymongo import MongoClient
+
 
 # ---------------------------------------------------------
 # Configuração da Página e Viewport Mobile
